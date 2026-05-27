@@ -22,7 +22,7 @@ Pillow==10.3.0
 openai==1.35.0          # for GPT-4V vision API
 
 # Audio processing
-openai-whisper==20231117
+# openai-whisper==20231117
 ffmpeg-python==0.2.0
 nltk==3.8.1
 pydub==0.25.1
